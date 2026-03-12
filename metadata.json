@@ -1,0 +1,5 @@
+{
+  "name": "Myanmar Earthquake Dashboard",
+  "description": "Interactive dashboard visualizing historical earthquakes in Myanmar using USGS data.",
+  "requestFramePermissions": []
+}
